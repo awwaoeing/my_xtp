@@ -1,0 +1,44 @@
+[14:59:27.285.212][1819447][INFO][XTP:0][init_log_file]:End: ./log/quote.log, api version : 2.2.42
+[14:59:27.423.961][1819447][INFO][XTP:0]453191001592 begin to login to quote server 119.3.103.38:6002.
+[14:59:27.423.986][1819447][INFO][XTP:0]Input local ip is 10.0.0.128.
+[14:59:27.613.706][1819447][INFO][XTP:0]Receive trading day 20250807 from quote server success.
+[14:59:27.613.751][1819447][INFO][XTP:0]Receive md udp group 230.1.7.45 : 7771 from quote server success.
+[14:59:27.613.761][1819447][INFO][XTP:0]Receive tbt udp group 230.1.7.45 : 7771 from quote server success.
+[14:59:27.613.766][1819447][INFO][XTP:0]Receive ob udp group 230.1.7.45 : 7771 from quote server success.
+[14:59:27.613.771][1819447][INFO][XTP:0]Receive optmd udp group 230.1.7.45 : 7771 from quote server success.
+[14:59:27.613.776][1819447][INFO][XTP:0]Receive nqmd udp group 230.1.7.45 : 7771 from quote server success.
+[14:59:27.613.781][1819447][INFO][XTP:0]Receive nqtbt udp group 230.1.7.45 : 7771 from quote server success.
+[14:59:27.613.974][1819447][INFO][XTP:0]Connect to quote server 119.3.103.38:6002 success.
+[14:59:27.614.010][1819447][INFO][XTP:0]Begin to query all tickers full info.
+[14:59:27.614.033][1819447][INFO][XTP:0]End to query all tickers full info.
+[14:59:27.614.077][1819452][INFO][XTP:0]thread(api work) start...
+[14:59:31.394.815][1819452][INFO][XTP:0]Begin to query all tickers full info.
+[14:59:31.394.885][1819452][INFO][XTP:0]End to query all tickers full info.
+[14:59:34.894.113][1819452][INFO][XTP:0]Begin to subscribe market data with tcp.
+[14:59:34.894.175][1819452][INFO][XTP:0]End to subscribe market data with tcp.
+[14:59:34.894.245][1819452][INFO][XTP:0]Begin to subscribe market data with tcp.
+[14:59:34.894.272][1819452][INFO][XTP:0]End to subscribe market data with tcp.
+[15:30:02.343.370][1819452][INFO][XTP:0]Close SessionTCP session: 0x59ca45530a70 socket: 0x59ca4552db30
+[15:30:02.343.590][1819452][INFO][XTP:0]Close SessionTCP session: 0x59ca45530a70 socket: 0x59ca4552db30
+[15:30:02.343.602][1819452][WARNING][XTP:1]call_service failed(5).[OS:104]Connection reset by peer[xbase_api.cpp:195][XTP:6]recv function failed.[OS:104]Connection reset by peer[xbase_os_socket.cpp:518]
+[15:30:02.343.612][1819452][INFO][XTP:0]Disconnect from server.
+[15:30:02.343.621][1819452][INFO][XTP:0]Disconnect from quote server.
+[15:30:02.343.654][1819452][INFO][XTP:0]453191001592 begin to login to quote server 119.3.103.38:6002.
+[15:30:02.343.662][1819452][INFO][XTP:0]Input local ip is 10.0.0.128.
+[15:30:02.378.059][1819452][ERROR][XTP:10200000]453191001592 login to quote server 119.3.103.38:6002 failed.[OS:111]Connection refused[xtp_quote_private_api.cpp:886][XTP:1]connect server failed.[OS:111]Connection refused[xbase_login.cpp:105]
+[15:30:12.378.255][1819452][INFO][XTP:0]453191001592 begin to login to quote server 119.3.103.38:6002.
+[15:30:12.378.297][1819452][INFO][XTP:0]Input local ip is 10.0.0.128.
+[15:30:12.584.267][1819452][INFO][XTP:0]Receive trading day 20250807 from quote server success.
+[15:30:12.584.309][1819452][INFO][XTP:0]Receive md udp group 230.1.7.45 : 7771 from quote server success.
+[15:30:12.584.320][1819452][INFO][XTP:0]Receive tbt udp group 230.1.7.45 : 7771 from quote server success.
+[15:30:12.584.327][1819452][INFO][XTP:0]Receive ob udp group 230.1.7.45 : 7771 from quote server success.
+[15:30:12.584.333][1819452][INFO][XTP:0]Receive optmd udp group 230.1.7.45 : 7771 from quote server success.
+[15:30:12.584.340][1819452][INFO][XTP:0]Receive nqmd udp group 230.1.7.45 : 7771 from quote server success.
+[15:30:12.584.346][1819452][INFO][XTP:0]Receive nqtbt udp group 230.1.7.45 : 7771 from quote server success.
+[15:30:12.584.549][1819452][INFO][XTP:0]Connect to quote server 119.3.103.38:6002 success.
+[15:30:12.584.611][1821893][INFO][XTP:0]thread(api work) start...
+[15:30:22.584.887][1819452][INFO][XTP:0]Begin to subscribe market data with tcp.
+[15:30:22.584.959][1819452][INFO][XTP:0]End to subscribe market data with tcp.
+[15:30:22.585.012][1819452][INFO][XTP:0]Begin to subscribe market data with tcp.
+[15:30:22.585.024][1819452][INFO][XTP:0]End to subscribe market data with tcp.
+[15:30:22.585.051][1819452][INFO][XTP:0]thread(api work) exit.

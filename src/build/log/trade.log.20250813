@@ -1,0 +1,228 @@
+[02:49:01.331.446][2503295][INFO][XTP:0][init_log_file]:End: ./log/trade.log, api version : 2.2.42
+[02:49:01.331.505][2503295][INFO][XTP:0]Begin to init trader api.
+[02:49:01.331.508][2503295][INFO][XTP:0]Begin to register service function.
+[02:49:01.331.513][2503295][INFO][XTP:0]End to register service function 1.
+[02:49:01.359.056][2503295][INFO][XTP:0]Init trader api success.
+[02:49:01.359.156][2503295][INFO][XTP:0]453191001592 begin to login to oms server 122.112.139.0:6104.
+[02:49:01.359.161][2503295][INFO][XTP:0]Input local ip is 10.0.0.128.
+[02:49:01.571.624][2503295][INFO][XTP:0]The server version is r_2.1.29.0_2507, start time is 20250813000844757, type is 3
+[02:49:01.571.663][2503295][INFO][XTP:0]User reference is 18
+[02:49:01.571.672][2503295][INFO][XTP:0]Begin to set trading day 20250813.
+[02:49:01.571.677][2503295][INFO][XTP:0]End set trading day 20250813
+[02:49:01.571.836][2503295][INFO][XTP:0]Connect to oms server 122.112.139.0:6104 success.
+[02:49:01.571.845][2503295][INFO][XTP:0]Login to oms server 122.112.139.0:6104 success, user is 453191001592, session id is 275775488.
+[02:49:01.571.877][2503295][INFO][XTP:0]Begin to query asset, request id is 1.
+[02:49:01.571.900][2503295][INFO][XTP:0]End to query asset, request id is 1.
+[02:49:01.572.025][2503304][INFO][XTP:0]thread(api work) start...
+[02:49:01.602.115][2503304][INFO][XTP:0]Begin to query position, request id is 2.
+[02:49:01.602.174][2503304][INFO][XTP:0]End to query position, request id is 2.
+[02:49:01.602.182][2503304][INFO][XTP:0]Receive query fund success, request id is 1.
+[02:49:01.632.276][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.632.319][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.632.343][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.632.359][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.632.379][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.632.394][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.632.430][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.632.482][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.632.535][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.632.590][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.080][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.123][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.141][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.157][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.171][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.187][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.202][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.218][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.233][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.248][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.264][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.279][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.294][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.309][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.323][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.337][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.375][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.392][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.427][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.447][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.464][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.478][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.493][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.508][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.523][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.539][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.554][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.569][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.584][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.611][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.626][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.641][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.656][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.671][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.686][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.701][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.716][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.731][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.661.745][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.437][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.486][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.505][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.521][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.538][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.554][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.569][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.584][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.599][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.614][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.629][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.644][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.660][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.675][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.691][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.706][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.722][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.737][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.767][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.782][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.798][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.814][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.829][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.843][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.953][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.970][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.690.992][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.008][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.024][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.039][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.063][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.080][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.095][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.110][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.125][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.140][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.155][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.170][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.185][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.200][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.224][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.240][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.255][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.270][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.284][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.300][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.315][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.331][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.346][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.360][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.375][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.390][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.422][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.443][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.691.457][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 0.
+[02:49:01.697.535][2503304][INFO][XTP:0]Begin to insert order 0.
+[02:49:01.697.574][2503304][INFO][XTP:0]Insert order 38290496967148521 success.
+[02:49:01.698.047][2503304][INFO][XTP:0]Begin to insert order 0.
+[02:49:01.698.076][2503304][INFO][XTP:0]Insert order 38290496967148522 success.
+[02:49:01.698.090][2503304][INFO][XTP:0]Receive query position success, request id is 2, last is 1.
+[02:49:01.727.864][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148522, status is 6
+[02:49:01.728.435][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148521, status is 4
+[02:49:01.730.747][2503304][INFO][XTP:0]Receive trader event, xtp id is 38290496967148521, price is 11.23, quantity is 500, side is 1
+[02:49:01.730.874][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148521, status is 3
+[02:49:09.617.988][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:09.618.068][2503303][INFO][XTP:0]Insert order 38290496967148523 success.
+[02:49:09.618.120][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:09.618.138][2503303][INFO][XTP:0]Insert order 38290496967148524 success.
+[02:49:09.647.588][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148523, status is 6
+[02:49:09.648.185][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148524, status is 6
+[02:49:15.731.373][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:15.731.471][2503303][INFO][XTP:0]Insert order 38290496967148525 success.
+[02:49:15.761.438][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148525, status is 6
+[02:49:23.802.862][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:23.802.929][2503303][INFO][XTP:0]Insert order 38290496967148526 success.
+[02:49:23.832.681][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148526, status is 6
+[02:49:27.730.072][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:27.730.141][2503303][INFO][XTP:0]Insert order 38290496967148527 success.
+[02:49:27.759.917][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148527, status is 6
+[02:49:31.811.028][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:31.811.094][2503303][INFO][XTP:0]Insert order 38290496967148528 success.
+[02:49:31.840.714][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148528, status is 6
+[02:49:39.750.124][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:39.750.202][2503303][INFO][XTP:0]Insert order 38290496967148529 success.
+[02:49:39.780.893][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148529, status is 6
+[02:49:39.838.527][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:39.838.595][2503303][INFO][XTP:0]Insert order 38290496967148530 success.
+[02:49:39.868.814][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148530, status is 6
+[02:49:47.820.514][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:47.820.586][2503303][INFO][XTP:0]Insert order 38290496967148531 success.
+[02:49:47.851.094][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148531, status is 6
+[02:49:53.745.715][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:53.745.788][2503303][INFO][XTP:0]Insert order 38290496967148532 success.
+[02:49:53.777.324][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148532, status is 6
+[02:49:55.840.388][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:49:55.840.491][2503303][INFO][XTP:0]Insert order 38290496967148533 success.
+[02:49:55.870.229][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148533, status is 6
+[02:50:05.733.829][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:05.733.902][2503303][INFO][XTP:0]Insert order 38290496967148534 success.
+[02:50:05.763.429][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148534, status is 6
+[02:50:07.822.860][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:07.822.934][2503303][INFO][XTP:0]Insert order 38290496967148535 success.
+[02:50:07.853.095][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148535, status is 6
+[02:50:15.741.422][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:15.741.499][2503303][INFO][XTP:0]Insert order 38290496967148536 success.
+[02:50:15.770.972][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148536, status is 6
+[02:50:17.830.047][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:17.830.134][2503303][INFO][XTP:0]Insert order 38290496967148537 success.
+[02:50:17.859.799][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148537, status is 6
+[02:50:27.738.155][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:27.738.226][2503303][INFO][XTP:0]Insert order 38290496967148538 success.
+[02:50:27.768.019][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148538, status is 6
+[02:50:27.820.911][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:27.820.976][2503303][INFO][XTP:0]Insert order 38290496967148539 success.
+[02:50:27.849.936][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148539, status is 6
+[02:50:35.843.718][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:35.843.791][2503303][INFO][XTP:0]Insert order 38290496967148540 success.
+[02:50:35.874.827][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148540, status is 6
+[02:50:39.736.501][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:39.736.576][2503303][INFO][XTP:0]Insert order 38290496967148541 success.
+[02:50:39.766.032][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148541, status is 6
+[02:50:45.796.374][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:45.796.473][2503303][INFO][XTP:0]Insert order 38290496967148542 success.
+[02:50:45.827.051][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148542, status is 6
+[02:50:53.738.634][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:53.738.710][2503303][INFO][XTP:0]Insert order 38290496967148543 success.
+[02:50:53.768.508][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148543, status is 6
+[02:50:53.856.277][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:50:53.856.350][2503303][INFO][XTP:0]Insert order 38290496967148544 success.
+[02:50:53.886.520][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148544, status is 6
+[02:51:03.801.903][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:51:03.801.977][2503303][INFO][XTP:0]Insert order 38290496967148545 success.
+[02:51:03.832.379][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148545, status is 6
+[02:51:07.741.668][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:51:07.741.739][2503303][INFO][XTP:0]Insert order 38290496967148546 success.
+[02:51:07.771.456][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148546, status is 6
+[02:51:11.800.739][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:51:11.800.802][2503303][INFO][XTP:0]Insert order 38290496967148547 success.
+[02:51:11.830.390][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148547, status is 6
+[02:51:19.738.336][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:51:19.738.440][2503303][INFO][XTP:0]Insert order 38290496967148548 success.
+[02:51:19.768.036][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148548, status is 6
+[02:51:19.828.148][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:51:19.828.217][2503303][INFO][XTP:0]Insert order 38290496967148549 success.
+[02:51:19.858.226][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148549, status is 6
+[02:51:29.757.252][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:51:29.757.328][2503303][INFO][XTP:0]Insert order 38290496967148550 success.
+[02:51:29.790.913][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148550, status is 6
+[02:51:29.812.325][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:51:29.812.395][2503303][INFO][XTP:0]Insert order 38290496967148551 success.
+[02:51:29.841.928][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148551, status is 6
+[02:51:37.852.107][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:51:37.852.192][2503303][INFO][XTP:0]Insert order 38290496967148552 success.
+[02:51:37.881.737][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148552, status is 6
+[02:51:41.755.769][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:51:41.755.844][2503303][INFO][XTP:0]Insert order 38290496967148553 success.
+[02:51:41.785.455][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148553, status is 6
+[02:51:47.864.832][2503303][INFO][XTP:0]Begin to insert order 0.
+[02:51:47.864.929][2503303][INFO][XTP:0]Insert order 38290496967148554 success.
+[02:51:47.895.049][2503304][INFO][XTP:0]Receive order event, xtp id is 38290496967148554, status is 6

@@ -1,0 +1,20 @@
+[02:49:00.973.864][2503295][INFO][XTP:0][init_log_file]:End: ./log/quote.log, api version : 2.2.42
+[02:49:01.100.543][2503295][INFO][XTP:0]453191001592 begin to login to quote server 119.3.103.38:6002.
+[02:49:01.100.570][2503295][INFO][XTP:0]Input local ip is 10.0.0.128.
+[02:49:01.303.715][2503295][INFO][XTP:0]Receive trading day 20250813 from quote server success.
+[02:49:01.303.762][2503295][INFO][XTP:0]Receive md udp group 230.1.7.45 : 7771 from quote server success.
+[02:49:01.303.774][2503295][INFO][XTP:0]Receive tbt udp group 230.1.7.45 : 7771 from quote server success.
+[02:49:01.303.780][2503295][INFO][XTP:0]Receive ob udp group 230.1.7.45 : 7771 from quote server success.
+[02:49:01.303.785][2503295][INFO][XTP:0]Receive optmd udp group 230.1.7.45 : 7771 from quote server success.
+[02:49:01.303.790][2503295][INFO][XTP:0]Receive nqmd udp group 230.1.7.45 : 7771 from quote server success.
+[02:49:01.303.795][2503295][INFO][XTP:0]Receive nqtbt udp group 230.1.7.45 : 7771 from quote server success.
+[02:49:01.303.955][2503295][INFO][XTP:0]Connect to quote server 119.3.103.38:6002 success.
+[02:49:01.303.993][2503295][INFO][XTP:0]Begin to query all tickers full info.
+[02:49:01.304.018][2503295][INFO][XTP:0]End to query all tickers full info.
+[02:49:01.307.432][2503300][INFO][XTP:0]thread(api work) start...
+[02:49:05.617.436][2503300][INFO][XTP:0]Begin to query all tickers full info.
+[02:49:05.617.514][2503300][INFO][XTP:0]End to query all tickers full info.
+[02:49:09.581.214][2503300][INFO][XTP:0]Begin to subscribe market data with tcp.
+[02:49:09.581.270][2503300][INFO][XTP:0]End to subscribe market data with tcp.
+[02:49:09.581.333][2503300][INFO][XTP:0]Begin to subscribe market data with tcp.
+[02:49:09.581.354][2503300][INFO][XTP:0]End to subscribe market data with tcp.

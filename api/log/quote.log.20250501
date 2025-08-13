@@ -1,0 +1,2140 @@
+[13:08:27.874.931][2377193][INFO][XTP:0][init_log_file]:End: ./log/quote.log, api version : 2.2.42
+[13:08:27.874.994][2377193][DEBUG][XTP:0]Begin to register quote service function.
+[13:08:27.875.002][2377193][DEBUG][XTP:0]register service function ok(2250).
+[13:08:27.875.007][2377193][DEBUG][XTP:0]register service function ok(2001).
+[13:08:27.875.011][2377193][DEBUG][XTP:0]register service function ok(2002).
+[13:08:27.875.015][2377193][DEBUG][XTP:0]register service function ok(2003).
+[13:08:27.875.019][2377193][DEBUG][XTP:0]register service function ok(2040).
+[13:08:27.875.024][2377193][DEBUG][XTP:0]register service function ok(2200).
+[13:08:27.875.028][2377193][DEBUG][XTP:0]register service function ok(2201).
+[13:08:27.875.032][2377193][DEBUG][XTP:0]register service function ok(2202).
+[13:08:27.875.036][2377193][DEBUG][XTP:0]register service function ok(2210).
+[13:08:27.875.040][2377193][DEBUG][XTP:0]register service function ok(2211).
+[13:08:27.875.044][2377193][DEBUG][XTP:0]register service function ok(2212).
+[13:08:27.875.048][2377193][DEBUG][XTP:0]register service function ok(2233).
+[13:08:27.875.052][2377193][DEBUG][XTP:0]register service function ok(51).
+[13:08:27.875.057][2377193][DEBUG][XTP:0]register service function ok(53).
+[13:08:27.875.061][2377193][DEBUG][XTP:0]register service function ok(9).
+[13:08:27.875.065][2377193][DEBUG][XTP:0]register service function ok(2005).
+[13:08:27.875.069][2377193][DEBUG][XTP:0]register service function ok(2006).
+[13:08:27.875.073][2377193][DEBUG][XTP:0]register service function ok(2205).
+[13:08:27.875.077][2377193][DEBUG][XTP:0]register service function ok(2206).
+[13:08:27.875.081][2377193][DEBUG][XTP:0]register service function ok(2215).
+[13:08:27.875.085][2377193][DEBUG][XTP:0]register service function ok(2216).
+[13:08:27.875.089][2377193][DEBUG][XTP:0]register service function ok(2012).
+[13:08:27.875.105][2377193][DEBUG][XTP:0]register service function ok(2018).
+[13:08:27.875.110][2377193][DEBUG][XTP:0]register service function ok(2220).
+[13:08:27.875.114][2377193][DEBUG][XTP:0]register service function ok(2222).
+[13:08:27.875.118][2377193][DEBUG][XTP:0]register service function ok(2224).
+[13:08:27.875.122][2377193][DEBUG][XTP:0]register service function ok(2251).
+[13:08:27.875.126][2377193][DEBUG][XTP:0]register service function ok(2253).
+[13:08:27.875.130][2377193][DEBUG][XTP:0]register service function ok(2254).
+[13:08:27.875.134][2377193][DEBUG][XTP:0]register service function ok(2230).
+[13:08:27.875.138][2377193][DEBUG][XTP:0]register service function ok(2232).
+[13:08:27.875.142][2377193][DEBUG][XTP:0]End to register quote service function 1.
+[13:08:28.014.235][2377193][INFO][XTP:0]353191001728 begin to login to quote server 119.3.103.38:6002.
+[13:08:28.206.085][2377193][DEBUG][XTP:0]Receive login info from quote server.
+[13:08:28.206.150][2377193][INFO][XTP:0]Receive trading day 20250501 from quote server success.
+[13:08:28.206.169][2377193][INFO][XTP:0]Receive md udp group 230.1.7.45 : 7771 from quote server success.
+[13:08:28.206.178][2377193][INFO][XTP:0]Receive tbt udp group 230.1.7.45 : 7771 from quote server success.
+[13:08:28.206.183][2377193][INFO][XTP:0]Receive ob udp group 230.1.7.45 : 7771 from quote server success.
+[13:08:28.206.188][2377193][INFO][XTP:0]Receive optmd udp group 230.1.7.45 : 7771 from quote server success.
+[13:08:28.206.194][2377193][INFO][XTP:0]Receive nqmd udp group 230.1.7.45 : 7771 from quote server success.
+[13:08:28.206.199][2377193][INFO][XTP:0]Receive nqtbt udp group 230.1.7.45 : 7771 from quote server success.
+[13:08:28.206.364][2377193][DEBUG][XTP:0]api_login_server successful: 426770432.
+[13:08:28.206.371][2377193][INFO][XTP:0]Connect to quote server 119.3.103.38:6002 success.
+[13:08:28.206.435][2377193][INFO][XTP:0]Begin to subscribe market data with tcp.
+[13:08:28.206.459][2377193][INFO][XTP:0]End to subscribe market data with tcp.
+[13:08:28.206.495][2377195][INFO][XTP:0]thread(api work) start...
+[13:08:28.235.617][2377195][DEBUG][XTP:0]service(9) call time 1
+[13:08:28.235.661][2377195][DEBUG][XTP:0]Receive subscribe market data.
+[13:08:28.235.866][2377195][DEBUG][XTP:0]Receive subscribe market data success.
+[13:08:28.235.877][2377195][DEBUG][XTP:0]service(2001) call time 217
+[13:08:28.237.971][2377195][DEBUG][XTP:0]Receive last market data.
+[13:08:28.238.004][2377195][DEBUG][XTP:0]Receive last market data success.
+[13:08:28.238.011][2377195][DEBUG][XTP:0]service(2018) call time 42
+[15:30:05.436.283][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:05.436.340][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:05.436.349][2377195][DEBUG][XTP:0]service(2003) call time 68
+[15:30:11.219.180][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:11.219.223][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:11.219.232][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:30:13.282.002][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:13.282.039][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:13.282.047][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:30:15.232.550][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:15.232.589][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:15.232.597][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:30:17.317.347][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:17.317.387][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:17.317.396][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:30:21.304.675][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:21.304.715][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:21.304.723][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:30:23.255.036][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:23.255.077][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:23.255.086][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:30:25.259.366][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:25.259.406][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:25.259.445][2377195][DEBUG][XTP:0]service(2003) call time 80
+[15:30:27.292.067][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:27.292.127][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:27.292.136][2377195][DEBUG][XTP:0]service(2003) call time 70
+[15:30:29.262.864][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:29.262.905][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:29.262.914][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:30:31.274.200][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:31.274.239][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:31.274.247][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:30:31.419.778][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:31.419.814][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:31.419.823][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:30:35.224.519][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:35.224.561][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:35.224.570][2377195][DEBUG][XTP:0]service(2003) call time 52
+[15:30:39.217.372][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:39.217.412][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:39.217.421][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:30:39.354.264][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:39.354.301][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:39.354.310][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:30:41.386.301][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:41.386.345][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:41.386.354][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:30:43.346.784][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:43.346.820][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:43.346.829][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:30:49.224.626][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:49.224.670][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:49.224.695][2377195][DEBUG][XTP:0]service(2003) call time 70
+[15:30:49.394.654][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:49.394.689][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:49.394.696][2377195][DEBUG][XTP:0]service(2003) call time 43
+[15:30:57.256.985][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:57.257.030][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:57.257.040][2377195][DEBUG][XTP:0]service(2003) call time 56
+[15:30:59.252.769][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:30:59.252.806][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:30:59.252.814][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:31:01.219.970][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:01.220.008][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:01.220.017][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:31:05.225.616][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:05.225.662][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:05.225.671][2377195][DEBUG][XTP:0]service(2003) call time 56
+[15:31:07.274.504][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:07.274.546][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:07.274.554][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:31:09.227.939][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:09.227.981][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:09.227.989][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:31:11.226.142][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:11.226.183][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:11.226.191][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:31:13.220.479][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:13.220.519][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:13.220.527][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:31:15.214.776][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:15.214.813][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:15.214.822][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:31:17.267.646][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:17.267.686][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:17.267.695][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:31:19.319.376][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:19.319.416][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:19.319.425][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:31:21.257.982][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:21.258.018][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:21.258.027][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:31:25.257.236][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:25.257.279][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:25.257.288][2377195][DEBUG][XTP:0]service(2003) call time 53
+[15:31:27.278.712][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:27.278.749][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:27.278.757][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:31:29.295.824][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:29.295.863][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:29.295.872][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:31:31.351.692][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:31.351.733][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:31.351.742][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:31:33.256.424][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:33.256.461][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:33.256.469][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:31:37.340.062][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:37.340.125][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:37.340.135][2377195][DEBUG][XTP:0]service(2003) call time 74
+[15:31:39.372.395][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:39.372.434][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:39.372.441][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:31:49.232.652][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:49.232.701][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:49.232.718][2377195][DEBUG][XTP:0]service(2003) call time 67
+[15:31:51.219.984][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:51.220.022][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:51.220.031][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:31:51.384.211][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:51.384.248][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:51.384.256][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:31:53.311.222][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:53.311.260][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:53.311.268][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:31:55.336.218][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:55.336.262][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:55.336.271][2377195][DEBUG][XTP:0]service(2003) call time 53
+[15:31:59.280.287][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:31:59.280.324][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:31:59.280.333][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:32:03.270.158][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:03.270.203][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:03.270.212][2377195][DEBUG][XTP:0]service(2003) call time 55
+[15:32:03.403.236][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:03.403.274][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:03.403.282][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:32:07.253.356][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:07.253.398][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:07.253.406][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:32:09.312.429][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:09.312.470][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:09.312.480][2377195][DEBUG][XTP:0]service(2003) call time 52
+[15:32:11.367.358][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:11.367.398][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:11.367.406][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:32:13.278.259][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:13.278.296][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:13.278.304][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:32:15.309.638][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:15.309.685][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:15.309.704][2377195][DEBUG][XTP:0]service(2003) call time 67
+[15:32:17.276.031][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:17.276.070][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:17.276.078][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:32:21.229.353][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:21.229.397][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:21.229.406][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:32:23.221.319][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:23.221.356][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:23.221.364][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:32:23.370.976][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:23.371.014][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:23.371.023][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:32:25.334.794][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:25.334.831][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:25.334.839][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:32:29.220.356][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:29.220.417][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:29.220.425][2377195][DEBUG][XTP:0]service(2003) call time 70
+[15:32:31.275.219][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:31.275.257][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:31.275.264][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:32:33.234.946][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:33.234.981][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:33.234.988][2377195][DEBUG][XTP:0]service(2003) call time 43
+[15:32:35.267.374][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:35.267.415][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:35.267.424][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:32:37.250.827][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:37.250.866][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:37.250.874][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:32:39.227.307][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:39.227.344][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:39.227.352][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:32:43.219.603][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:43.219.648][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:43.219.656][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:32:43.364.507][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:43.364.544][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:43.364.552][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:32:45.311.634][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:45.311.670][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:45.311.678][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:32:47.365.085][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:47.365.152][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:47.365.160][2377195][DEBUG][XTP:0]service(2003) call time 76
+[15:32:49.335.419][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:49.335.459][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:49.335.468][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:32:53.235.881][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:53.235.921][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:53.235.929][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:32:55.266.200][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:55.266.243][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:55.266.250][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:32:55.380.482][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:55.380.518][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:55.380.525][2377195][DEBUG][XTP:0]service(2003) call time 44
+[15:32:59.227.675][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:32:59.227.713][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:32:59.227.721][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:33:01.236.409][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:01.236.449][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:01.236.458][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:33:03.297.271][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:03.297.309][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:03.297.317][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:33:05.280.121][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:05.280.157][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:05.280.165][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:33:07.358.796][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:07.358.836][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:07.358.844][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:33:09.267.562][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:09.267.601][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:09.267.625][2377195][DEBUG][XTP:0]service(2003) call time 65
+[15:33:11.258.447][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:11.258.483][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:11.258.489][2377195][DEBUG][XTP:0]service(2003) call time 43
+[15:33:15.236.451][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:15.236.494][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:15.236.502][2377195][DEBUG][XTP:0]service(2003) call time 52
+[15:33:15.409.234][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:15.409.270][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:15.409.277][2377195][DEBUG][XTP:0]service(2003) call time 44
+[15:33:17.330.117][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:17.330.154][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:17.330.161][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:33:19.365.571][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:19.365.610][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:19.365.618][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:33:21.343.311][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:21.343.350][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:21.343.358][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:33:25.278.221][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:25.278.260][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:25.278.267][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:33:27.328.924][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:27.328.964][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:27.328.972][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:33:29.255.228][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:29.255.266][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:29.255.273][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:33:31.257.150][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:31.257.186][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:31.257.194][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:33:33.335.397][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:33.335.436][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:33.335.444][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:33:37.296.589][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:37.296.628][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:37.296.635][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:33:41.230.623][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:41.230.666][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:41.230.674][2377195][DEBUG][XTP:0]service(2003) call time 52
+[15:33:43.301.642][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:43.301.680][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:43.301.688][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:33:45.375.244][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:45.375.285][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:45.375.292][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:33:47.352.509][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:47.352.548][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:47.352.556][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:33:51.254.414][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:51.254.453][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:51.254.461][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:33:53.273.753][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:53.273.792][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:53.273.800][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:33:53.417.183][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:53.417.220][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:53.417.227][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:33:57.223.510][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:57.223.547][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:57.223.553][2377195][DEBUG][XTP:0]service(2003) call time 44
+[15:33:59.248.299][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:33:59.248.339][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:33:59.248.347][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:34:01.284.136][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:01.284.175][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:01.284.288][2377195][DEBUG][XTP:0]service(2003) call time 153
+[15:34:03.242.853][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:03.242.890][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:03.242.899][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:34:05.287.546][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:05.287.590][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:05.287.599][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:34:07.218.323][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:07.218.363][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:07.218.372][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:34:09.226.923][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:09.226.959][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:09.226.968][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:34:11.331.388][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:11.331.431][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:11.331.439][2377195][DEBUG][XTP:0]service(2003) call time 53
+[15:34:13.355.317][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:13.355.354][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:13.355.363][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:34:15.257.779][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:15.257.817][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:15.257.826][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:34:21.317.832][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:21.317.875][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:21.317.884][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:34:23.388.815][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:23.388.853][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:23.388.861][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:34:25.346.061][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:25.346.125][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:25.346.135][2377195][DEBUG][XTP:0]service(2003) call time 75
+[15:34:27.277.057][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:27.277.131][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:27.277.147][2377195][DEBUG][XTP:0]service(2003) call time 91
+[15:34:29.340.493][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:29.340.529][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:29.340.538][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:34:33.247.030][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:33.247.074][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:33.247.083][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:34:35.230.027][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:35.230.064][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:35.230.073][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:34:37.223.842][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:37.223.882][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:37.223.890][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:34:37.410.238][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:37.410.274][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:37.410.283][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:34:41.249.820][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:41.249.879][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:41.249.887][2377195][DEBUG][XTP:0]service(2003) call time 68
+[15:34:43.276.914][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:43.276.951][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:43.276.958][2377195][DEBUG][XTP:0]service(2003) call time 44
+[15:34:45.284.254][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:45.284.289][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:45.284.296][2377195][DEBUG][XTP:0]service(2003) call time 43
+[15:34:47.271.856][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:47.271.896][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:47.271.904][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:34:49.286.937][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:49.286.977][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:49.286.985][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:34:51.266.558][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:51.266.594][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:51.266.603][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:34:55.229.592][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:55.229.634][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:55.229.643][2377195][DEBUG][XTP:0]service(2003) call time 52
+[15:34:55.403.666][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:55.403.702][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:55.403.711][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:34:57.389.549][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:57.389.585][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:57.389.594][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:34:59.335.380][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:34:59.335.420][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:34:59.335.428][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:35:01.393.881][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:01.393.923][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:01.393.932][2377195][DEBUG][XTP:0]service(2003) call time 52
+[15:35:05.280.854][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:05.280.895][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:05.280.904][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:35:07.243.876][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:07.243.916][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:07.243.925][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:35:09.314.846][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:09.314.887][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:09.314.895][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:35:11.245.721][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:11.245.757][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:11.245.766][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:35:13.231.460][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:13.231.500][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:13.231.509][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:35:17.387.683][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:17.387.725][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:17.387.733][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:35:19.311.847][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:19.311.897][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:19.311.906][2377195][DEBUG][XTP:0]service(2003) call time 60
+[15:35:21.441.788][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:21.441.825][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:21.441.834][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:35:23.348.367][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:23.348.404][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:23.348.445][2377195][DEBUG][XTP:0]service(2003) call time 79
+[15:35:27.232.929][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:27.232.971][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:27.232.979][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:35:29.355.343][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:29.355.384][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:29.355.422][2377195][DEBUG][XTP:0]service(2003) call time 80
+[15:35:31.255.449][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:31.255.487][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:31.255.495][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:35:33.253.825][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:33.253.866][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:33.253.874][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:35:35.297.605][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:35.297.644][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:35.297.652][2377195][DEBUG][XTP:0]service(2003) call time 48
+[15:35:37.397.842][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:37.397.878][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:37.397.886][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:35:41.229.488][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:41.229.531][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:41.229.541][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:35:43.237.989][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:43.238.026][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:43.238.034][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:35:43.437.861][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:43.437.897][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:43.437.906][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:35:47.255.018][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:47.255.061][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:47.255.070][2377195][DEBUG][XTP:0]service(2003) call time 53
+[15:35:49.329.391][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:49.329.429][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:49.329.438][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:35:51.331.144][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:51.331.184][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:51.331.192][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:35:53.270.204][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:53.270.244][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:53.270.253][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:35:55.443.738][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:55.443.774][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:55.443.782][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:35:57.311.952][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:35:57.311.992][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:35:57.312.000][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:36:01.315.444][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:01.315.489][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:01.315.498][2377195][DEBUG][XTP:0]service(2003) call time 55
+[15:36:03.350.412][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:03.350.449][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:03.350.458][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:36:05.257.016][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:05.257.053][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:05.257.061][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:36:07.295.619][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:07.295.663][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:07.295.672][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:36:09.338.546][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:09.338.581][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:09.338.588][2377195][DEBUG][XTP:0]service(2003) call time 43
+[15:36:13.235.188][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:13.235.229][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:13.235.238][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:36:15.232.141][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:15.232.177][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:15.232.185][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:36:17.247.461][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:17.247.500][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:17.247.509][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:36:17.410.154][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:17.410.190][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:17.410.199][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:36:21.268.669][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:21.268.710][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:21.268.719][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:36:25.216.607][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:25.216.647][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:25.216.655][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:36:25.406.023][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:25.406.059][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:25.406.068][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:36:27.333.007][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:27.333.040][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:27.333.048][2377195][DEBUG][XTP:0]service(2003) call time 42
+[15:36:29.370.888][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:29.370.925][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:29.370.934][2377195][DEBUG][XTP:0]service(2003) call time 47
+[15:36:33.217.506][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:33.217.550][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:33.217.559][2377195][DEBUG][XTP:0]service(2003) call time 53
+[15:36:35.339.937][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:35.339.974][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:35.339.982][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:36:37.358.419][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:37.358.455][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:37.358.464][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:36:39.449.545][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:39.449.587][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:39.449.596][2377195][DEBUG][XTP:0]service(2003) call time 52
+[15:36:41.309.361][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:41.309.398][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:41.309.406][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:36:45.265.647][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:45.265.690][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:45.265.699][2377195][DEBUG][XTP:0]service(2003) call time 53
+[15:36:47.442.740][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:47.442.776][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:47.442.785][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:36:49.339.498][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:49.339.539][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:49.339.547][2377195][DEBUG][XTP:0]service(2003) call time 51
+[15:36:53.240.126][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:53.240.166][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:53.240.175][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:36:53.427.631][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:53.427.691][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:53.427.699][2377195][DEBUG][XTP:0]service(2003) call time 69
+[15:36:57.262.479][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:36:57.262.517][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:36:57.262.523][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:37:01.236.058][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:37:01.236.125][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:37:01.236.135][2377195][DEBUG][XTP:0]service(2003) call time 78
+[15:37:01.427.144][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:37:01.427.181][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:37:01.427.190][2377195][DEBUG][XTP:0]service(2003) call time 46
+[15:37:05.238.592][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:37:05.238.632][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:37:05.238.641][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:37:07.291.599][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:37:07.291.639][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:37:07.291.648][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:37:09.296.163][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:37:09.296.204][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:37:09.296.213][2377195][DEBUG][XTP:0]service(2003) call time 50
+[15:37:13.265.903][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:37:13.265.946][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:37:13.265.955][2377195][DEBUG][XTP:0]service(2003) call time 53
+[15:37:15.416.352][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:37:15.416.392][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:37:15.416.400][2377195][DEBUG][XTP:0]service(2003) call time 49
+[15:37:17.349.898][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:37:17.349.934][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:37:17.349.942][2377195][DEBUG][XTP:0]service(2003) call time 45
+[15:37:21.219.264][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:37:21.219.309][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:37:21.219.318][2377195][DEBUG][XTP:0]service(2003) call time 55
+[15:37:31.247.616][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:37:31.247.662][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:37:31.247.671][2377195][DEBUG][XTP:0]service(2003) call time 56
+[15:38:17.227.717][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:38:17.227.768][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:38:17.227.778][2377195][DEBUG][XTP:0]service(2003) call time 63
+[15:39:23.222.707][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:39:23.222.755][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:39:23.222.764][2377195][DEBUG][XTP:0]service(2003) call time 58
+[15:39:41.347.427][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:39:41.347.475][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:39:41.347.484][2377195][DEBUG][XTP:0]service(2003) call time 58
+[15:40:03.365.234][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:40:03.365.281][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:40:03.365.289][2377195][DEBUG][XTP:0]service(2003) call time 56
+[15:40:27.222.899][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:40:27.222.952][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:40:27.222.960][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:40:47.320.334][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:40:47.320.380][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:40:47.320.388][2377195][DEBUG][XTP:0]service(2003) call time 55
+[15:41:11.227.901][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:41:11.227.952][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:41:11.227.962][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:41:33.279.629][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:41:33.279.682][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:41:33.279.709][2377195][DEBUG][XTP:0]service(2003) call time 81
+[15:41:55.278.775][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:41:55.278.826][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:41:55.278.836][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:42:17.285.556][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:42:17.285.601][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:42:17.285.609][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:42:37.263.264][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:42:37.263.310][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:42:37.263.318][2377195][DEBUG][XTP:0]service(2003) call time 55
+[15:42:55.247.625][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:42:55.247.669][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:42:55.247.677][2377195][DEBUG][XTP:0]service(2003) call time 53
+[15:43:13.238.315][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:43:13.238.367][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:43:13.238.376][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:43:33.239.410][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:43:33.239.461][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:43:33.239.471][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:44:01.234.082][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:44:01.234.165][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:44:01.234.173][2377195][DEBUG][XTP:0]service(2003) call time 92
+[15:44:23.258.306][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:44:23.258.357][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:44:23.258.366][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:44:45.254.717][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:44:45.254.768][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:44:45.254.778][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:45:05.255.708][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:45:05.255.759][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:45:05.255.769][2377195][DEBUG][XTP:0]service(2003) call time 63
+[15:45:27.265.556][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:45:27.265.608][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:45:27.265.618][2377195][DEBUG][XTP:0]service(2003) call time 64
+[15:45:49.284.211][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:45:49.284.262][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:45:49.284.272][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:46:11.286.723][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:46:11.286.774][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:46:11.286.783][2377195][DEBUG][XTP:0]service(2003) call time 61
+[15:46:31.281.302][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:46:31.281.351][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:46:31.281.361][2377195][DEBUG][XTP:0]service(2003) call time 61
+[15:46:57.272.659][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:46:57.272.710][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:46:57.272.720][2377195][DEBUG][XTP:0]service(2003) call time 63
+[15:47:17.263.294][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:47:17.263.345][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:47:17.263.355][2377195][DEBUG][XTP:0]service(2003) call time 63
+[15:47:37.260.748][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:47:37.260.800][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:47:37.260.810][2377195][DEBUG][XTP:0]service(2003) call time 63
+[15:47:57.259.530][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:47:57.259.582][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:47:57.259.591][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:48:15.265.257][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:48:15.265.308][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:48:15.265.317][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:48:39.260.870][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:48:39.260.921][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:48:39.260.931][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:49:01.260.385][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:49:01.260.437][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:49:01.260.447][2377195][DEBUG][XTP:0]service(2003) call time 63
+[15:49:21.261.195][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:49:21.261.247][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:49:21.261.256][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:49:41.262.750][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:49:41.262.800][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:49:41.262.809][2377195][DEBUG][XTP:0]service(2003) call time 60
+[15:49:59.290.754][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:49:59.290.805][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:49:59.290.814][2377195][DEBUG][XTP:0]service(2003) call time 61
+[15:50:25.266.713][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:50:25.266.764][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:50:25.266.773][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:50:45.271.816][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:50:45.271.867][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:50:45.271.877][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:51:07.263.425][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:51:07.263.477][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:51:07.263.486][2377195][DEBUG][XTP:0]service(2003) call time 63
+[15:51:25.271.295][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:51:25.271.345][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:51:25.271.355][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:51:43.269.573][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:51:43.269.625][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:51:43.269.634][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:52:05.266.751][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:52:05.266.803][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:52:05.266.812][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:52:23.271.499][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:52:23.271.550][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:52:23.271.559][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:52:39.307.966][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:52:39.308.018][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:52:39.308.028][2377195][DEBUG][XTP:0]service(2003) call time 63
+[15:52:57.299.793][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:52:57.299.844][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:52:57.299.853][2377195][DEBUG][XTP:0]service(2003) call time 61
+[15:53:13.297.780][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:53:13.297.831][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:53:13.297.840][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:53:33.291.849][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:53:33.291.900][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:53:33.291.910][2377195][DEBUG][XTP:0]service(2003) call time 61
+[15:53:51.279.982][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:53:51.280.033][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:53:51.280.043][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:54:07.284.846][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:54:07.284.897][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:54:07.284.906][2377195][DEBUG][XTP:0]service(2003) call time 62
+[15:54:23.274.186][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:54:23.274.236][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:54:23.274.245][2377195][DEBUG][XTP:0]service(2003) call time 60
+[15:54:39.271.037][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:54:39.271.131][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:54:39.271.142][2377195][DEBUG][XTP:0]service(2003) call time 107
+[15:54:57.271.558][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:54:57.271.604][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:54:57.271.614][2377195][DEBUG][XTP:0]service(2003) call time 58
+[15:55:13.274.084][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:55:13.274.172][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:55:13.274.180][2377195][DEBUG][XTP:0]service(2003) call time 97
+[15:55:29.268.912][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:55:29.268.958][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:55:29.268.967][2377195][DEBUG][XTP:0]service(2003) call time 57
+[15:55:43.311.422][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:55:43.311.468][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:55:43.311.477][2377195][DEBUG][XTP:0]service(2003) call time 56
+[15:56:01.287.707][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:56:01.287.754][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:56:01.287.763][2377195][DEBUG][XTP:0]service(2003) call time 57
+[15:56:21.278.956][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:56:21.279.001][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:56:21.279.011][2377195][DEBUG][XTP:0]service(2003) call time 57
+[15:56:37.282.438][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:56:37.282.485][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:56:37.282.493][2377195][DEBUG][XTP:0]service(2003) call time 56
+[15:56:53.284.900][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:56:53.284.946][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:56:53.284.955][2377195][DEBUG][XTP:0]service(2003) call time 55
+[15:57:09.282.079][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:57:09.282.146][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:57:09.282.154][2377195][DEBUG][XTP:0]service(2003) call time 76
+[15:57:25.275.664][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:57:25.275.709][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:57:25.275.718][2377195][DEBUG][XTP:0]service(2003) call time 56
+[15:57:45.276.839][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:57:45.276.884][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:57:45.276.892][2377195][DEBUG][XTP:0]service(2003) call time 55
+[15:58:01.278.170][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:58:01.278.216][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:58:01.278.224][2377195][DEBUG][XTP:0]service(2003) call time 56
+[15:58:17.312.715][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:58:17.312.760][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:58:17.312.768][2377195][DEBUG][XTP:0]service(2003) call time 54
+[15:58:33.320.256][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:58:33.320.303][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:58:33.320.311][2377195][DEBUG][XTP:0]service(2003) call time 56
+[15:58:51.281.402][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:58:51.281.457][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:58:51.281.466][2377195][DEBUG][XTP:0]service(2003) call time 65
+[15:59:11.276.133][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:59:11.276.270][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:59:11.276.312][2377195][DEBUG][XTP:0]service(2003) call time 180
+[15:59:27.276.932][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:59:27.276.977][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:59:27.276.987][2377195][DEBUG][XTP:0]service(2003) call time 56
+[15:59:41.288.042][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:59:41.288.087][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:59:41.288.142][2377195][DEBUG][XTP:0]service(2003) call time 102
+[15:59:55.298.928][2377195][DEBUG][XTP:0]Receive depth market data.
+[15:59:55.298.972][2377195][DEBUG][XTP:0]Receive depth market data success.
+[15:59:55.298.999][2377195][DEBUG][XTP:0]service(2003) call time 73
+[16:00:13.276.321][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:00:13.276.366][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:00:13.276.374][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:00:29.291.858][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:00:29.291.902][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:00:29.291.911][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:00:47.286.655][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:00:47.286.702][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:00:47.286.711][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:01:03.284.583][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:01:03.284.629][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:01:03.284.638][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:01:19.299.473][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:01:19.299.519][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:01:19.299.529][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:01:39.289.467][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:01:39.289.514][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:01:39.289.523][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:01:55.313.892][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:01:55.313.939][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:01:55.313.948][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:02:13.290.645][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:02:13.290.695][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:02:13.290.704][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:02:29.291.887][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:02:29.291.934][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:02:29.291.944][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:02:45.292.146][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:02:45.292.192][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:02:45.292.200][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:02:59.289.357][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:02:59.289.403][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:02:59.289.412][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:03:19.287.317][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:03:19.287.365][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:03:19.287.374][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:03:33.293.927][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:03:33.293.973][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:03:33.293.982][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:03:47.330.452][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:03:47.330.498][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:03:47.330.508][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:04:03.291.736][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:04:03.291.783][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:04:03.291.792][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:04:17.305.491][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:04:17.305.538][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:04:17.305.548][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:04:35.303.135][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:04:35.303.182][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:04:35.303.191][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:04:51.297.500][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:04:51.297.548][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:04:51.297.557][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:05:07.296.182][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:05:07.296.233][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:05:07.296.242][2377195][DEBUG][XTP:0]service(2003) call time 61
+[16:05:21.301.575][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:05:21.301.621][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:05:21.301.630][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:05:39.295.794][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:05:39.295.841][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:05:39.295.850][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:05:55.299.061][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:05:55.299.133][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:05:55.299.144][2377195][DEBUG][XTP:0]service(2003) call time 85
+[16:06:09.297.615][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:06:09.297.660][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:06:09.297.669][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:06:23.299.034][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:06:23.299.081][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:06:23.299.111][2377195][DEBUG][XTP:0]service(2003) call time 79
+[16:06:37.310.440][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:06:37.310.485][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:06:37.310.495][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:06:53.303.881][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:06:53.303.928][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:06:53.303.938][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:07:11.295.747][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:07:11.295.794][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:07:11.295.802][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:07:27.296.232][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:07:27.296.278][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:07:27.296.287][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:07:41.307.444][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:07:41.307.490][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:07:41.307.500][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:07:55.305.967][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:07:55.306.017][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:07:55.306.027][2377195][DEBUG][XTP:0]service(2003) call time 61
+[16:08:11.303.878][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:08:11.303.924][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:08:11.303.933][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:08:27.304.852][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:08:27.304.899][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:08:27.304.908][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:08:41.330.751][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:08:41.330.796][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:08:41.330.804][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:08:55.319.121][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:08:55.319.166][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:08:55.319.175][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:09:11.303.333][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:09:11.303.379][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:09:11.303.389][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:09:25.307.931][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:09:25.307.979][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:09:25.307.988][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:09:43.303.756][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:09:43.303.803][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:09:43.303.811][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:09:55.307.559][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:09:55.307.607][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:09:55.307.616][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:10:09.309.573][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:10:09.309.634][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:10:09.309.641][2377195][DEBUG][XTP:0]service(2003) call time 70
+[16:10:23.307.552][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:10:23.307.599][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:10:23.307.608][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:10:37.306.337][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:10:37.306.382][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:10:37.306.391][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:10:57.304.133][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:10:57.304.180][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:10:57.304.189][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:11:11.312.300][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:11:11.312.346][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:11:11.312.355][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:11:27.311.739][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:11:27.311.787][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:11:27.311.796][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:11:45.303.301][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:11:45.303.346][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:11:45.303.354][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:11:59.316.030][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:11:59.316.075][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:11:59.316.083][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:12:21.311.188][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:12:21.311.232][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:12:21.311.241][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:12:39.312.734][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:12:39.312.780][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:12:39.312.788][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:12:57.311.273][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:12:57.311.318][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:12:57.311.326][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:13:13.311.881][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:13:13.311.927][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:13:13.311.936][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:13:31.309.279][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:13:31.309.326][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:13:31.309.334][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:13:47.311.815][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:13:47.311.861][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:13:47.311.869][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:14:03.314.266][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:14:03.314.312][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:14:03.314.320][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:14:19.330.746][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:14:19.330.789][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:14:19.330.797][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:14:35.332.956][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:14:35.333.002][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:14:35.333.010][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:14:51.309.850][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:14:51.309.895][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:14:51.309.903][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:15:07.315.972][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:15:07.316.017][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:15:07.316.026][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:15:23.318.671][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:15:23.318.715][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:15:23.318.740][2377195][DEBUG][XTP:0]service(2003) call time 70
+[16:15:39.313.855][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:15:39.313.899][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:15:39.313.907][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:15:55.334.306][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:15:55.334.349][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:15:55.334.358][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:16:11.313.445][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:16:11.313.490][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:16:11.313.499][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:16:27.315.921][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:16:27.315.967][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:16:27.315.974][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:16:43.331.942][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:16:43.331.987][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:16:43.331.995][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:16:59.311.629][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:16:59.311.674][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:16:59.311.682][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:17:13.331.410][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:17:13.331.455][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:17:13.331.463][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:17:29.331.411][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:17:29.331.456][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:17:29.331.464][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:17:51.339.653][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:17:51.339.698][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:17:51.339.706][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:18:09.313.589][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:18:09.313.634][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:18:09.313.643][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:18:25.338.254][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:18:25.338.299][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:18:25.338.308][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:18:41.320.140][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:18:41.320.286][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:18:41.320.317][2377195][DEBUG][XTP:0]service(2003) call time 179
+[16:18:55.319.645][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:18:55.319.690][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:18:55.319.700][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:19:13.319.758][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:19:13.319.804][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:19:13.319.814][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:19:31.318.070][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:19:31.318.139][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:19:31.318.149][2377195][DEBUG][XTP:0]service(2003) call time 81
+[16:19:45.334.754][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:19:45.334.801][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:19:45.334.810][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:20:01.312.855][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:20:01.312.903][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:20:01.312.912][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:20:15.336.225][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:20:15.336.273][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:20:15.336.282][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:20:33.318.939][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:20:33.318.985][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:20:33.318.994][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:20:47.319.621][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:20:47.319.664][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:20:47.319.673][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:21:01.318.816][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:21:01.318.865][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:21:01.318.874][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:21:15.363.006][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:21:15.363.056][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:21:15.363.066][2377195][DEBUG][XTP:0]service(2003) call time 62
+[16:21:33.320.045][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:21:33.320.119][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:21:33.320.130][2377195][DEBUG][XTP:0]service(2003) call time 87
+[16:21:47.313.929][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:21:47.313.980][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:21:47.313.989][2377195][DEBUG][XTP:0]service(2003) call time 61
+[16:22:01.319.748][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:22:01.319.800][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:22:01.319.809][2377195][DEBUG][XTP:0]service(2003) call time 63
+[16:22:15.320.115][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:22:15.320.164][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:22:15.320.272][2377195][DEBUG][XTP:0]service(2003) call time 159
+[16:22:31.334.995][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:22:31.335.044][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:22:31.335.054][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:22:47.329.342][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:22:47.329.390][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:22:47.329.399][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:23:05.342.791][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:23:05.342.837][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:23:05.342.846][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:23:25.332.847][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:23:25.332.899][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:23:25.332.908][2377195][DEBUG][XTP:0]service(2003) call time 62
+[16:23:41.322.272][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:23:41.322.322][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:23:41.322.331][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:23:57.321.904][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:23:57.321.953][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:23:57.321.963][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:24:11.321.360][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:24:11.321.411][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:24:11.321.421][2377195][DEBUG][XTP:0]service(2003) call time 61
+[16:24:29.349.072][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:24:29.349.148][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:24:29.349.157][2377195][DEBUG][XTP:0]service(2003) call time 87
+[16:24:47.318.270][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:24:47.318.321][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:24:47.318.329][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:25:01.338.430][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:25:01.338.480][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:25:01.338.489][2377195][DEBUG][XTP:0]service(2003) call time 61
+[16:25:17.359.495][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:25:17.359.545][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:25:17.359.554][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:25:33.346.427][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:25:33.346.480][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:25:33.346.489][2377195][DEBUG][XTP:0]service(2003) call time 63
+[16:25:51.350.578][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:25:51.350.649][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:25:51.350.658][2377195][DEBUG][XTP:0]service(2003) call time 81
+[16:26:05.327.041][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:26:05.327.119][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:26:05.327.129][2377195][DEBUG][XTP:0]service(2003) call time 89
+[16:26:19.323.565][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:26:19.323.615][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:26:19.323.625][2377195][DEBUG][XTP:0]service(2003) call time 61
+[16:26:33.323.921][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:26:33.323.970][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:26:33.323.979][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:26:49.326.696][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:26:49.326.746][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:26:49.326.755][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:27:05.328.075][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:27:05.328.140][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:27:05.328.148][2377195][DEBUG][XTP:0]service(2003) call time 74
+[16:27:19.327.860][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:27:19.327.907][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:27:19.327.915][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:27:35.319.254][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:27:35.319.298][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:27:35.319.307][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:27:49.342.783][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:27:49.342.828][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:27:49.342.836][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:28:05.348.504][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:28:05.348.559][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:28:05.348.567][2377195][DEBUG][XTP:0]service(2003) call time 65
+[16:28:23.350.910][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:28:23.350.957][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:28:23.350.965][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:28:39.328.472][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:28:39.328.515][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:28:39.328.523][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:28:55.327.203][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:28:55.327.249][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:28:55.327.257][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:29:11.322.337][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:29:11.322.382][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:29:11.322.390][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:29:27.329.456][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:29:27.329.502][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:29:27.329.510][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:29:43.349.308][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:29:43.349.352][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:29:43.349.360][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:29:59.347.941][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:29:59.347.986][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:29:59.347.994][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:30:15.324.033][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:30:15.324.077][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:30:15.324.085][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:30:29.340.832][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:30:29.340.877][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:30:29.340.885][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:30:43.347.152][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:30:43.347.196][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:30:43.347.221][2377195][DEBUG][XTP:0]service(2003) call time 70
+[16:31:01.327.858][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:31:01.327.902][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:31:01.327.910][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:31:15.328.990][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:31:15.329.035][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:31:15.329.044][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:31:29.326.261][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:31:29.326.307][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:31:29.326.316][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:31:43.332.258][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:31:43.332.304][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:31:43.332.313][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:31:57.330.078][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:31:57.330.140][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:31:57.330.148][2377195][DEBUG][XTP:0]service(2003) call time 71
+[16:32:13.359.384][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:32:13.359.429][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:32:13.359.437][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:32:29.325.208][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:32:29.325.254][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:32:29.325.262][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:32:43.329.818][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:32:43.329.863][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:32:43.329.872][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:32:57.344.853][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:32:57.344.898][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:32:57.344.907][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:33:15.355.681][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:33:15.355.728][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:33:15.355.738][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:33:33.331.743][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:33:33.331.789][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:33:33.331.799][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:33:49.332.177][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:33:49.332.223][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:33:49.332.232][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:34:03.333.253][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:34:03.333.300][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:34:03.333.309][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:34:19.332.853][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:34:19.332.899][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:34:19.332.907][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:34:33.335.821][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:34:33.335.867][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:34:33.335.876][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:34:49.340.018][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:34:49.340.066][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:34:49.340.075][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:35:05.339.081][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:35:05.339.145][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:35:05.339.154][2377195][DEBUG][XTP:0]service(2003) call time 75
+[16:35:19.353.648][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:35:19.353.694][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:35:19.353.701][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:35:33.355.243][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:35:33.355.290][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:35:33.355.318][2377195][DEBUG][XTP:0]service(2003) call time 76
+[16:35:49.334.257][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:35:49.334.304][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:35:49.334.313][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:36:03.361.581][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:36:03.361.628][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:36:03.361.636][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:36:17.338.598][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:36:17.338.645][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:36:17.338.654][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:36:33.334.771][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:36:33.334.818][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:36:33.334.826][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:36:45.368.609][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:36:45.368.655][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:36:45.368.664][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:37:01.340.715][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:37:01.340.766][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:37:01.340.776][2377195][DEBUG][XTP:0]service(2003) call time 62
+[16:37:15.361.982][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:37:15.362.028][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:37:15.362.036][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:37:29.380.607][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:37:29.380.651][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:37:29.380.659][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:37:43.354.935][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:37:43.354.981][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:37:43.354.989][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:37:57.380.009][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:37:57.380.056][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:37:57.380.065][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:38:13.355.211][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:38:13.355.258][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:38:13.355.268][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:38:31.342.141][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:38:31.342.184][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:38:31.342.192][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:38:47.340.460][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:38:47.340.508][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:38:47.340.516][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:39:01.342.954][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:39:01.342.996][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:39:01.343.005][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:39:17.366.732][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:39:17.366.780][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:39:17.366.789][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:39:31.344.604][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:39:31.344.649][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:39:31.344.658][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:39:51.342.241][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:39:51.342.284][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:39:51.342.292][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:40:07.344.609][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:40:07.344.657][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:40:07.344.666][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:40:21.342.324][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:40:21.342.366][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:40:21.342.375][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:40:35.360.591][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:40:35.360.631][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:40:35.360.638][2377195][DEBUG][XTP:0]service(2003) call time 47
+[16:40:49.365.212][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:40:49.365.259][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:40:49.365.268][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:41:07.339.209][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:41:07.339.253][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:41:07.339.261][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:41:21.341.706][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:41:21.341.752][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:41:21.341.761][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:41:35.347.621][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:41:35.347.663][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:41:35.347.672][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:41:49.347.326][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:41:49.347.370][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:41:49.347.378][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:42:05.342.396][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:42:05.342.446][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:42:05.342.455][2377195][DEBUG][XTP:0]service(2003) call time 61
+[16:42:19.341.114][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:42:19.341.158][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:42:19.341.166][2377195][DEBUG][XTP:0]service(2003) call time 77
+[16:42:33.348.256][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:42:33.348.300][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:42:33.348.308][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:42:47.360.447][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:42:47.360.494][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:42:47.360.503][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:43:01.369.635][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:43:01.369.677][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:43:01.369.686][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:43:17.351.110][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:43:17.351.156][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:43:17.351.166][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:43:37.345.137][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:43:37.345.294][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:43:37.345.325][2377195][DEBUG][XTP:0]service(2003) call time 188
+[16:43:53.348.757][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:43:53.348.799][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:43:53.348.808][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:44:09.345.794][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:44:09.345.840][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:44:09.345.850][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:44:23.345.164][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:44:23.345.208][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:44:23.345.217][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:44:39.346.385][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:44:39.346.426][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:44:39.346.435][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:44:53.347.289][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:44:53.347.335][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:44:53.347.344][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:45:09.343.427][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:45:09.343.470][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:45:09.343.479][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:45:23.361.117][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:45:23.361.176][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:45:23.361.183][2377195][DEBUG][XTP:0]service(2003) call time 67
+[16:45:37.347.401][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:45:37.347.448][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:45:37.347.457][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:45:51.382.979][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:45:51.383.023][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:45:51.383.032][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:46:05.356.194][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:46:05.356.237][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:46:05.356.246][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:46:17.351.235][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:46:17.351.281][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:46:17.351.290][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:46:31.347.364][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:46:31.347.406][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:46:31.347.415][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:46:43.353.528][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:46:43.353.572][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:46:43.353.581][2377195][DEBUG][XTP:0]service(2003) call time 54
+[16:46:57.383.021][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:46:57.383.068][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:46:57.383.076][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:47:11.347.535][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:47:11.347.577][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:47:11.347.586][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:47:23.367.885][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:47:23.367.927][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:47:23.367.936][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:47:37.349.746][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:47:37.349.792][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:47:37.349.801][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:47:49.371.066][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:47:49.371.127][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:47:49.371.136][2377195][DEBUG][XTP:0]service(2003) call time 72
+[16:48:05.367.845][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:48:05.367.888][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:48:05.367.896][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:48:23.346.811][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:48:23.346.859][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:48:23.346.868][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:48:37.369.285][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:48:37.369.326][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:48:37.369.335][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:48:49.355.024][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:48:49.355.067][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:48:49.355.076][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:49:03.357.645][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:49:03.357.692][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:49:03.357.701][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:49:19.384.314][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:49:19.384.356][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:49:19.384.364][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:49:37.356.677][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:49:37.356.723][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:49:37.356.733][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:49:51.375.377][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:49:51.375.420][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:49:51.375.447][2377195][DEBUG][XTP:0]service(2003) call time 71
+[16:50:07.348.528][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:50:07.348.571][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:50:07.348.577][2377195][DEBUG][XTP:0]service(2003) call time 51
+[16:50:19.371.565][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:50:19.371.613][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:50:19.371.622][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:50:33.377.210][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:50:33.377.253][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:50:33.377.262][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:50:47.353.132][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:50:47.353.174][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:50:47.353.182][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:51:01.355.876][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:51:01.355.923][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:51:01.355.933][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:51:15.355.273][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:51:15.355.314][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:51:15.355.323][2377195][DEBUG][XTP:0]service(2003) call time 51
+[16:51:27.402.296][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:51:27.402.338][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:51:27.402.347][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:51:43.358.382][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:51:43.358.428][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:51:43.358.437][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:51:57.357.053][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:51:57.357.118][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:51:57.357.128][2377195][DEBUG][XTP:0]service(2003) call time 77
+[16:52:09.387.307][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:52:09.387.350][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:52:09.387.359][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:52:23.357.135][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:52:23.357.182][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:52:23.357.190][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:52:37.352.697][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:52:37.352.740][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:52:37.352.748][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:52:51.368.845][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:52:51.368.887][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:52:51.368.896][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:53:05.360.140][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:53:05.360.187][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:53:05.360.196][2377195][DEBUG][XTP:0]service(2003) call time 58
+[16:53:21.352.213][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:53:21.352.254][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:53:21.352.263][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:53:33.359.356][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:53:33.359.398][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:53:33.359.407][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:53:47.358.138][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:53:47.358.187][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:53:47.358.195][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:54:03.367.706][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:54:03.367.749][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:54:03.367.758][2377195][DEBUG][XTP:0]service(2003) call time 53
+[16:54:17.406.868][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:54:17.406.911][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:54:17.406.919][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:54:33.352.877][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:54:33.352.924][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:54:33.352.933][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:54:45.375.487][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:54:45.375.528][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:54:45.375.537][2377195][DEBUG][XTP:0]service(2003) call time 51
+[16:54:59.353.732][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:54:59.353.774][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:54:59.353.782][2377195][DEBUG][XTP:0]service(2003) call time 51
+[16:55:13.358.028][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:55:13.358.076][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:55:13.358.085][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:55:27.364.474][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:55:27.364.516][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:55:27.364.525][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:55:41.361.149][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:55:41.361.191][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:55:41.361.325][2377195][DEBUG][XTP:0]service(2003) call time 177
+[16:55:55.359.941][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:55:55.359.990][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:55:55.360.000][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:56:07.386.029][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:56:07.386.075][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:56:07.386.084][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:56:23.357.229][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:56:23.357.276][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:56:23.357.284][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:56:35.360.695][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:56:35.360.745][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:56:35.360.755][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:56:49.383.838][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:56:49.383.883][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:56:49.383.892][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:57:03.375.374][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:57:03.375.421][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:57:03.375.430][2377195][DEBUG][XTP:0]service(2003) call time 57
+[16:57:17.370.581][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:57:17.370.630][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:57:17.370.639][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:57:33.368.803][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:57:33.368.851][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:57:33.368.860][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:57:53.359.381][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:57:53.359.430][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:57:53.359.439][2377195][DEBUG][XTP:0]service(2003) call time 60
+[16:58:09.363.846][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:58:09.363.892][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:58:09.363.901][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:58:25.366.258][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:58:25.366.306][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:58:25.366.315][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:58:41.359.188][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:58:41.359.234][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:58:41.359.243][2377195][DEBUG][XTP:0]service(2003) call time 56
+[16:58:55.360.186][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:58:55.360.231][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:58:55.360.240][2377195][DEBUG][XTP:0]service(2003) call time 55
+[16:59:13.365.385][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:59:13.365.456][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:59:13.365.464][2377195][DEBUG][XTP:0]service(2003) call time 80
+[16:59:27.382.153][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:59:27.382.197][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:59:27.382.204][2377195][DEBUG][XTP:0]service(2003) call time 52
+[16:59:45.361.462][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:59:45.361.511][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:59:45.361.520][2377195][DEBUG][XTP:0]service(2003) call time 59
+[16:59:59.382.752][2377195][DEBUG][XTP:0]Receive depth market data.
+[16:59:59.382.797][2377195][DEBUG][XTP:0]Receive depth market data success.
+[16:59:59.382.806][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:00:13.366.810][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:00:13.366.853][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:00:13.366.861][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:00:33.363.299][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:00:33.363.345][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:00:33.363.353][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:00:47.365.393][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:00:47.365.439][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:00:47.365.447][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:01:01.370.415][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:01:01.370.458][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:01:01.370.466][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:01:15.376.641][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:01:15.376.688][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:01:15.376.696][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:01:31.374.555][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:01:31.374.603][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:01:31.374.612][2377195][DEBUG][XTP:0]service(2003) call time 59
+[17:01:45.373.765][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:01:45.373.813][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:01:45.373.823][2377195][DEBUG][XTP:0]service(2003) call time 60
+[17:02:01.377.699][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:02:01.377.750][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:02:01.377.759][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:02:13.408.730][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:02:13.408.777][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:02:13.408.786][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:02:29.390.711][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:02:29.390.758][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:02:29.390.767][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:02:49.389.524][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:02:49.389.575][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:02:49.389.585][2377195][DEBUG][XTP:0]service(2003) call time 62
+[17:03:07.371.373][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:03:07.371.420][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:03:07.371.429][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:03:23.393.282][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:03:23.393.332][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:03:23.393.341][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:03:37.419.421][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:03:37.419.466][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:03:37.419.474][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:03:53.381.683][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:03:53.381.730][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:03:53.381.739][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:04:09.380.758][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:04:09.380.809][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:04:09.380.838][2377195][DEBUG][XTP:0]service(2003) call time 81
+[17:04:25.380.998][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:04:25.381.043][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:04:25.381.051][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:04:41.401.282][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:04:41.401.332][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:04:41.401.341][2377195][DEBUG][XTP:0]service(2003) call time 60
+[17:04:55.391.623][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:04:55.391.669][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:04:55.391.678][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:05:09.421.149][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:05:09.421.196][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:05:09.421.205][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:05:23.406.398][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:05:23.406.449][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:05:23.406.458][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:05:41.378.758][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:05:41.378.805][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:05:41.378.814][2377195][DEBUG][XTP:0]service(2003) call time 58
+[17:05:55.383.680][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:05:55.383.730][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:05:55.383.739][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:06:09.382.145][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:06:09.382.191][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:06:09.382.200][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:06:23.384.253][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:06:23.384.300][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:06:23.384.309][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:06:39.380.543][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:06:39.380.595][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:06:39.380.604][2377195][DEBUG][XTP:0]service(2003) call time 62
+[17:06:53.382.446][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:06:53.382.492][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:06:53.382.501][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:07:07.403.016][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:07:07.403.063][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:07:07.403.072][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:07:21.393.798][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:07:21.393.849][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:07:21.393.859][2377195][DEBUG][XTP:0]service(2003) call time 62
+[17:07:35.395.609][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:07:35.395.656][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:07:35.395.665][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:07:49.383.435][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:07:49.383.482][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:07:49.383.491][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:08:09.380.229][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:08:09.380.280][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:08:09.380.288][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:08:25.377.786][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:08:25.377.832][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:08:25.377.842][2377195][DEBUG][XTP:0]service(2003) call time 58
+[17:08:37.405.898][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:08:37.405.944][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:08:37.405.953][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:08:53.388.609][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:08:53.388.655][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:08:53.388.663][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:09:09.384.313][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:09:09.384.355][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:09:09.384.361][2377195][DEBUG][XTP:0]service(2003) call time 49
+[17:09:23.386.806][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:09:23.386.846][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:09:23.386.852][2377195][DEBUG][XTP:0]service(2003) call time 48
+[17:09:37.384.210][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:09:37.384.257][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:09:37.384.265][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:09:51.402.522][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:09:51.402.564][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:09:51.402.571][2377195][DEBUG][XTP:0]service(2003) call time 50
+[17:10:05.399.286][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:10:05.399.328][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:10:05.399.336][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:10:19.395.668][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:10:19.395.713][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:10:19.395.721][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:10:33.384.793][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:10:33.384.833][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:10:33.384.841][2377195][DEBUG][XTP:0]service(2003) call time 50
+[17:10:45.431.253][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:10:45.431.294][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:10:45.431.302][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:10:59.387.494][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:10:59.387.537][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:10:59.387.545][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:11:11.391.758][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:11:11.391.799][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:11:11.391.807][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:11:27.383.128][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:11:27.383.169][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:11:27.383.282][2377195][DEBUG][XTP:0]service(2003) call time 156
+[17:11:39.387.274][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:11:39.387.321][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:11:39.387.330][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:11:53.384.845][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:11:53.384.887][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:11:53.384.895][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:12:05.387.448][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:12:05.387.491][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:12:05.387.500][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:12:19.383.265][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:12:19.383.314][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:12:19.383.323][2377195][DEBUG][XTP:0]service(2003) call time 59
+[17:12:33.414.276][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:12:33.414.319][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:12:33.414.326][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:12:47.391.126][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:12:47.391.168][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:12:47.391.176][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:13:03.388.930][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:13:03.388.977][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:13:03.388.987][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:13:15.436.969][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:13:15.437.011][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:13:15.437.020][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:13:29.391.995][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:13:29.392.057][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:13:29.392.065][2377195][DEBUG][XTP:0]service(2003) call time 72
+[17:13:43.408.374][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:13:43.408.424][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:13:43.408.434][2377195][DEBUG][XTP:0]service(2003) call time 62
+[17:13:59.385.889][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:13:59.385.934][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:13:59.385.943][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:14:11.410.237][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:14:11.410.281][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:14:11.410.290][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:14:27.390.584][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:14:27.390.631][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:14:27.390.641][2377195][DEBUG][XTP:0]service(2003) call time 58
+[17:14:39.411.500][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:14:39.411.546][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:14:39.411.554][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:14:55.385.982][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:14:55.386.024][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:14:55.386.033][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:15:11.390.951][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:15:11.390.998][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:15:11.391.007][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:15:25.391.457][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:15:25.391.499][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:15:25.391.508][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:15:37.392.293][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:15:37.392.335][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:15:37.392.343][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:15:49.452.138][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:15:49.452.188][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:15:49.452.205][2377195][DEBUG][XTP:0]service(2003) call time 68
+[17:16:03.397.650][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:16:03.397.692][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:16:03.397.701][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:16:17.409.604][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:16:17.409.646][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:16:17.409.655][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:16:31.417.831][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:16:31.417.879][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:16:31.417.896][2377195][DEBUG][XTP:0]service(2003) call time 66
+[17:16:43.406.976][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:16:43.407.023][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:16:43.407.033][2377195][DEBUG][XTP:0]service(2003) call time 58
+[17:16:57.410.269][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:16:57.410.312][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:16:57.410.320][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:17:13.413.247][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:17:13.413.299][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:17:13.413.339][2377195][DEBUG][XTP:0]service(2003) call time 92
+[17:17:27.395.963][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:17:27.396.006][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:17:27.396.015][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:17:43.392.236][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:17:43.392.280][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:17:43.392.288][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:17:57.407.168][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:17:57.407.216][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:17:57.407.244][2377195][DEBUG][XTP:0]service(2003) call time 77
+[17:18:09.402.023][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:18:09.402.062][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:18:09.402.069][2377195][DEBUG][XTP:0]service(2003) call time 47
+[17:18:27.395.111][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:18:27.395.153][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:18:27.395.160][2377195][DEBUG][XTP:0]service(2003) call time 71
+[17:18:45.396.446][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:18:45.396.493][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:18:45.396.502][2377195][DEBUG][XTP:0]service(2003) call time 58
+[17:18:59.411.473][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:18:59.411.515][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:18:59.411.524][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:19:13.394.634][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:19:13.394.675][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:19:13.394.683][2377195][DEBUG][XTP:0]service(2003) call time 50
+[17:19:25.413.478][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:19:25.413.523][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:19:25.413.532][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:19:39.394.664][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:19:39.394.706][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:19:39.394.714][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:19:55.399.037][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:19:55.399.080][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:19:55.399.089][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:20:09.395.374][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:20:09.395.420][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:20:09.395.429][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:20:21.402.300][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:20:21.402.342][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:20:21.402.351][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:20:35.398.295][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:20:35.398.337][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:20:35.398.346][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:20:49.424.041][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:20:49.424.089][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:20:49.424.128][2377195][DEBUG][XTP:0]service(2003) call time 89
+[17:21:03.396.502][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:21:03.396.543][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:21:03.396.552][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:21:17.396.224][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:21:17.396.266][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:21:17.396.274][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:21:31.431.938][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:21:31.431.984][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:21:31.431.992][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:21:43.415.730][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:21:43.415.771][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:21:43.415.780][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:21:59.406.476][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:21:59.406.519][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:21:59.406.528][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:22:13.424.318][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:22:13.424.369][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:22:13.424.378][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:22:27.406.251][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:22:27.406.294][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:22:27.406.303][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:22:41.396.297][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:22:41.396.336][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:22:41.396.343][2377195][DEBUG][XTP:0]service(2003) call time 47
+[17:22:53.402.230][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:22:53.402.276][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:22:53.402.286][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:23:09.402.888][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:23:09.402.931][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:23:09.402.939][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:23:21.424.347][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:23:21.424.389][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:23:21.424.397][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:23:35.420.001][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:23:35.420.050][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:23:35.420.059][2377195][DEBUG][XTP:0]service(2003) call time 59
+[17:23:49.396.451][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:23:49.396.493][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:23:49.396.502][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:23:59.457.084][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:23:59.457.150][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:23:59.457.158][2377195][DEBUG][XTP:0]service(2003) call time 75
+[17:24:15.415.249][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:24:15.415.295][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:24:15.415.303][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:24:29.426.037][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:24:29.426.081][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:24:29.426.088][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:24:43.399.670][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:24:43.399.710][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:24:43.399.718][2377195][DEBUG][XTP:0]service(2003) call time 49
+[17:24:55.402.189][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:24:55.402.236][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:24:55.402.244][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:25:07.450.146][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:25:07.450.189][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:25:07.450.197][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:25:21.405.179][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:25:21.405.222][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:25:21.405.230][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:25:35.400.618][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:25:35.400.663][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:25:35.400.671][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:25:49.436.374][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:25:49.436.416][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:25:49.436.424][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:26:01.405.845][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:26:01.405.886][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:26:01.405.894][2377195][DEBUG][XTP:0]service(2003) call time 50
+[17:26:13.419.929][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:26:13.419.972][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:26:13.419.981][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:26:27.409.312][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:26:27.409.355][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:26:27.409.362][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:26:45.406.463][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:26:45.406.513][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:26:45.406.523][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:26:59.403.870][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:26:59.403.937][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:26:59.403.944][2377195][DEBUG][XTP:0]service(2003) call time 76
+[17:27:11.405.448][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:27:11.405.495][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:27:11.405.502][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:27:25.402.238][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:27:25.402.288][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:27:25.402.297][2377195][DEBUG][XTP:0]service(2003) call time 60
+[17:27:39.406.967][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:27:39.407.012][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:27:39.407.021][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:27:59.402.125][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:27:59.402.171][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:27:59.402.179][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:28:11.420.957][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:28:11.421.004][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:28:11.421.014][2377195][DEBUG][XTP:0]service(2003) call time 58
+[17:28:27.399.500][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:28:27.399.546][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:28:27.399.554][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:28:39.421.481][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:28:39.421.531][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:28:39.421.540][2377195][DEBUG][XTP:0]service(2003) call time 60
+[17:28:53.424.990][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:28:53.425.035][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:28:53.425.045][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:29:07.404.057][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:29:07.404.134][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:29:07.404.144][2377195][DEBUG][XTP:0]service(2003) call time 88
+[17:29:21.400.999][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:29:21.401.048][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:29:21.401.059][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:29:33.407.299][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:29:33.407.346][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:29:33.407.355][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:29:45.404.964][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:29:45.405.009][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:29:45.405.019][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:29:59.411.229][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:29:59.411.280][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:29:59.411.289][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:30:13.409.378][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:30:13.409.429][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:30:13.409.439][2377195][DEBUG][XTP:0]service(2003) call time 62
+[17:30:25.439.336][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:30:25.439.386][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:30:25.439.395][2377195][DEBUG][XTP:0]service(2003) call time 60
+[17:30:39.408.888][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:30:39.408.938][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:30:39.408.948][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:30:51.446.893][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:30:51.446.937][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:30:51.446.946][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:31:05.414.053][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:31:05.414.123][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:31:05.414.133][2377195][DEBUG][XTP:0]service(2003) call time 82
+[17:31:21.408.359][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:31:21.408.410][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:31:21.408.439][2377195][DEBUG][XTP:0]service(2003) call time 81
+[17:31:35.404.952][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:31:35.404.997][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:31:35.405.004][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:31:47.405.327][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:31:47.405.371][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:31:47.405.378][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:31:59.413.962][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:31:59.414.012][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:31:59.414.022][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:32:15.407.300][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:32:15.407.350][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:32:15.407.398][2377195][DEBUG][XTP:0]service(2003) call time 99
+[17:32:27.409.821][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:32:27.409.868][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:32:27.409.877][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:32:41.405.605][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:32:41.405.655][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:32:41.405.664][2377195][DEBUG][XTP:0]service(2003) call time 60
+[17:32:53.408.460][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:32:53.408.509][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:32:53.408.518][2377195][DEBUG][XTP:0]service(2003) call time 60
+[17:33:05.435.052][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:33:05.435.131][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:33:05.435.143][2377195][DEBUG][XTP:0]service(2003) call time 92
+[17:33:21.410.747][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:33:21.410.798][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:33:21.410.808][2377195][DEBUG][XTP:0]service(2003) call time 62
+[17:33:37.409.574][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:33:37.409.619][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:33:37.409.628][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:33:49.416.616][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:33:49.416.660][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:33:49.416.669][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:34:01.437.187][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:34:01.437.233][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:34:01.437.242][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:34:17.412.754][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:34:17.412.806][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:34:17.412.814][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:34:33.415.509][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:34:33.415.552][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:34:33.415.560][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:34:47.411.070][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:34:47.411.130][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:34:47.411.138][2377195][DEBUG][XTP:0]service(2003) call time 69
+[17:34:59.435.232][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:34:59.435.273][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:34:59.435.281][2377195][DEBUG][XTP:0]service(2003) call time 50
+[17:35:13.413.870][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:35:13.413.915][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:35:13.413.923][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:35:25.425.774][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:35:25.425.815][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:35:25.425.823][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:35:37.425.253][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:35:37.425.293][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:35:37.425.300][2377195][DEBUG][XTP:0]service(2003) call time 48
+[17:35:57.417.035][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:35:57.417.081][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:35:57.417.089][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:36:11.415.302][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:36:11.415.343][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:36:11.415.351][2377195][DEBUG][XTP:0]service(2003) call time 50
+[17:36:25.414.190][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:36:25.414.231][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:36:25.414.239][2377195][DEBUG][XTP:0]service(2003) call time 50
+[17:36:37.420.115][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:36:37.420.163][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:36:37.420.172][2377195][DEBUG][XTP:0]service(2003) call time 58
+[17:36:51.448.728][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:36:51.448.770][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:36:51.448.779][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:37:05.441.526][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:37:05.441.568][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:37:05.441.577][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:37:17.435.254][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:37:17.435.300][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:37:17.435.309][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:37:31.415.984][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:37:31.416.027][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:37:31.416.037][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:37:43.435.464][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:37:43.435.504][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:37:43.435.513][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:37:59.431.475][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:37:59.431.523][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:37:59.431.532][2377195][DEBUG][XTP:0]service(2003) call time 59
+[17:38:13.425.033][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:38:13.425.075][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:38:13.425.083][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:38:27.417.001][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:38:27.417.042][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:38:27.417.051][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:38:39.420.935][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:38:39.420.981][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:38:39.420.990][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:38:51.445.441][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:38:51.445.483][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:38:51.445.492][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:39:07.419.803][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:39:07.419.844][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:39:07.419.852][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:39:19.442.590][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:39:19.442.636][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:39:19.442.646][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:39:33.418.659][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:39:33.418.701][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:39:33.418.710][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:39:45.419.985][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:39:45.420.025][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:39:45.420.034][2377195][DEBUG][XTP:0]service(2003) call time 50
+[17:39:57.446.437][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:39:57.446.487][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:39:57.446.497][2377195][DEBUG][XTP:0]service(2003) call time 61
+[17:40:13.416.502][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:40:13.416.563][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:40:13.416.571][2377195][DEBUG][XTP:0]service(2003) call time 70
+[17:40:27.418.930][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:40:27.418.969][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:40:27.418.976][2377195][DEBUG][XTP:0]service(2003) call time 48
+[17:40:39.443.409][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:40:39.443.463][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:40:39.443.473][2377195][DEBUG][XTP:0]service(2003) call time 65
+[17:40:53.423.163][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:40:53.423.206][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:40:53.423.215][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:41:05.468.820][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:41:05.468.866][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:41:05.468.876][2377195][DEBUG][XTP:0]service(2003) call time 58
+[17:41:21.420.803][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:41:21.420.849][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:41:21.420.858][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:41:33.425.817][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:41:33.425.857][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:41:33.425.866][2377195][DEBUG][XTP:0]service(2003) call time 49
+[17:41:47.427.633][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:41:47.427.678][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:41:47.427.715][2377195][DEBUG][XTP:0]service(2003) call time 84
+[17:41:59.424.175][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:41:59.424.221][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:41:59.424.230][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:42:11.440.889][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:42:11.440.929][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:42:11.440.938][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:42:25.428.364][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:42:25.428.407][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:42:25.428.415][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:42:39.426.797][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:42:39.426.842][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:42:39.426.850][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:42:51.424.669][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:42:51.424.710][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:42:51.424.719][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:43:05.423.770][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:43:05.423.811][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:43:05.423.821][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:43:17.427.949][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:43:17.427.995][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:43:17.428.004][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:43:33.426.394][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:43:33.426.437][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:43:33.426.445][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:43:47.427.437][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:43:47.427.479][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:43:47.427.488][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:44:01.420.218][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:44:01.420.267][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:44:01.420.277][2377195][DEBUG][XTP:0]service(2003) call time 60
+[17:44:13.424.758][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:44:13.424.800][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:44:13.424.808][2377195][DEBUG][XTP:0]service(2003) call time 51
+[17:44:25.444.008][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:44:25.444.051][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:44:25.444.079][2377195][DEBUG][XTP:0]service(2003) call time 73
+[17:44:39.443.549][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:44:39.443.595][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:44:39.443.604][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:44:59.445.559][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:44:59.445.601][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:44:59.445.609][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:45:13.424.645][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:45:13.424.691][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:45:13.424.699][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:45:25.430.633][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:45:25.430.676][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:45:25.430.685][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:45:39.424.784][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:45:39.424.827][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:45:39.424.836][2377195][DEBUG][XTP:0]service(2003) call time 53
+[17:45:53.428.977][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:45:53.429.022][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:45:53.429.032][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:46:09.425.444][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:46:09.425.488][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:46:09.425.496][2377195][DEBUG][XTP:0]service(2003) call time 54
+[17:46:23.424.478][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:46:23.424.520][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:46:23.424.529][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:46:33.446.455][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:46:33.446.501][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:46:33.446.510][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:46:45.447.753][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:46:45.447.795][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:46:45.447.804][2377195][DEBUG][XTP:0]service(2003) call time 52
+[17:46:59.441.298][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:46:59.441.344][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:46:59.441.353][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:47:13.433.772][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:47:13.433.823][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:47:13.433.833][2377195][DEBUG][XTP:0]service(2003) call time 62
+[17:47:27.425.253][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:47:27.425.299][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:47:27.425.308][2377195][DEBUG][XTP:0]service(2003) call time 56
+[17:47:37.434.964][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:47:37.435.010][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:47:37.435.020][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:47:49.434.138][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:47:49.434.187][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:47:49.434.195][2377195][DEBUG][XTP:0]service(2003) call time 59
+[17:48:03.435.220][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:48:03.435.268][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:48:03.435.276][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:48:15.433.130][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:48:15.433.176][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:48:15.433.184][2377195][DEBUG][XTP:0]service(2003) call time 55
+[17:48:27.429.711][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:48:27.429.764][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:48:27.429.773][2377195][DEBUG][XTP:0]service(2003) call time 64
+[17:48:37.450.846][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:48:37.450.893][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:48:37.450.902][2377195][DEBUG][XTP:0]service(2003) call time 57
+[17:48:51.428.272][2377195][DEBUG][XTP:0]Receive depth market data.
+[17:48:51.428.317][2377195][DEBUG][XTP:0]Receive depth market data success.
+[17:48:51.428.324][2377195][DEBUG][XTP:0]service(2003) call time 53

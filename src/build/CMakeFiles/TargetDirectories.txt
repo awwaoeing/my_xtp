@@ -1,0 +1,4 @@
+/root/my_xtp/src/build/CMakeFiles/demo.dir
+/root/my_xtp/src/build/CMakeFiles/clean_all.dir
+/root/my_xtp/src/build/CMakeFiles/edit_cache.dir
+/root/my_xtp/src/build/CMakeFiles/rebuild_cache.dir

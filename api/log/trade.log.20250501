@@ -1,0 +1,132 @@
+[13:08:28.232.648][2377193][INFO][XTP:0][init_log_file]:End: ./log/trade.log, api version : 2.2.42
+[13:08:28.232.723][2377193][INFO][XTP:0]Begin to init trader api.
+[13:08:28.232.727][2377193][INFO][XTP:0]Begin to register service function.
+[13:08:28.232.730][2377193][DEBUG][XTP:0]register service function ok(3102).
+[13:08:28.232.733][2377193][DEBUG][XTP:0]register service function ok(3110).
+[13:08:28.232.734][2377193][DEBUG][XTP:0]register service function ok(3114).
+[13:08:28.232.736][2377193][DEBUG][XTP:0]register service function ok(3634).
+[13:08:28.232.738][2377193][DEBUG][XTP:0]register service function ok(3118).
+[13:08:28.232.740][2377193][DEBUG][XTP:0]register service function ok(3194).
+[13:08:28.232.742][2377193][DEBUG][XTP:0]register service function ok(3636).
+[13:08:28.232.744][2377193][DEBUG][XTP:0]register service function ok(3196).
+[13:08:28.232.746][2377193][DEBUG][XTP:0]register service function ok(3142).
+[13:08:28.232.748][2377193][DEBUG][XTP:0]register service function ok(3146).
+[13:08:28.232.749][2377193][DEBUG][XTP:0]register service function ok(3108).
+[13:08:28.232.751][2377193][DEBUG][XTP:0]register service function ok(3104).
+[13:08:28.232.753][2377193][DEBUG][XTP:0]register service function ok(53).
+[13:08:28.232.755][2377193][DEBUG][XTP:0]register service function ok(51).
+[13:08:28.232.757][2377193][DEBUG][XTP:0]register service function ok(52).
+[13:08:28.232.759][2377193][DEBUG][XTP:0]register service function ok(9).
+[13:08:28.232.761][2377193][DEBUG][XTP:0]register service function ok(3132).
+[13:08:28.232.762][2377193][DEBUG][XTP:0]register service function ok(3206).
+[13:08:28.232.764][2377193][DEBUG][XTP:0]register service function ok(3128).
+[13:08:28.232.766][2377193][DEBUG][XTP:0]register service function ok(3126).
+[13:08:28.232.768][2377193][DEBUG][XTP:0]register service function ok(3208).
+[13:08:28.232.770][2377193][DEBUG][XTP:0]register service function ok(3136).
+[13:08:28.232.771][2377193][DEBUG][XTP:0]register service function ok(3190).
+[13:08:28.232.773][2377193][DEBUG][XTP:0]register service function ok(3148).
+[13:08:28.232.775][2377193][DEBUG][XTP:0]register service function ok(3192).
+[13:08:28.232.777][2377193][DEBUG][XTP:0]register service function ok(3642).
+[13:08:28.232.779][2377193][DEBUG][XTP:0]register service function ok(3640).
+[13:08:28.232.780][2377193][DEBUG][XTP:0]register service function ok(3153).
+[13:08:28.232.782][2377193][DEBUG][XTP:0]register service function ok(3156).
+[13:08:28.232.784][2377193][DEBUG][XTP:0]register service function ok(3176).
+[13:08:28.232.786][2377193][DEBUG][XTP:0]register service function ok(3158).
+[13:08:28.232.788][2377193][DEBUG][XTP:0]register service function ok(3162).
+[13:08:28.232.790][2377193][DEBUG][XTP:0]register service function ok(3160).
+[13:08:28.232.791][2377193][DEBUG][XTP:0]register service function ok(3164).
+[13:08:28.232.793][2377193][DEBUG][XTP:0]register service function ok(3166).
+[13:08:28.232.795][2377193][DEBUG][XTP:0]register service function ok(3168).
+[13:08:28.232.797][2377193][DEBUG][XTP:0]register service function ok(3172).
+[13:08:28.232.799][2377193][DEBUG][XTP:0]register service function ok(3174).
+[13:08:28.232.800][2377193][DEBUG][XTP:0]register service function ok(3170).
+[13:08:28.232.802][2377193][DEBUG][XTP:0]register service function ok(3602).
+[13:08:28.232.804][2377193][DEBUG][XTP:0]register service function ok(3198).
+[13:08:28.232.806][2377193][DEBUG][XTP:0]register service function ok(3200).
+[13:08:28.232.808][2377193][DEBUG][XTP:0]register service function ok(3702).
+[13:08:28.232.809][2377193][DEBUG][XTP:0]register service function ok(3705).
+[13:08:28.232.811][2377193][DEBUG][XTP:0]register service function ok(3704).
+[13:08:28.232.813][2377193][DEBUG][XTP:0]register service function ok(3713).
+[13:08:28.232.815][2377193][DEBUG][XTP:0]register service function ok(3735).
+[13:08:28.232.817][2377193][DEBUG][XTP:0]register service function ok(3753).
+[13:08:28.232.819][2377193][DEBUG][XTP:0]register service function ok(3755).
+[13:08:28.232.821][2377193][DEBUG][XTP:0]register service function ok(3716).
+[13:08:28.232.822][2377193][DEBUG][XTP:0]register service function ok(3737).
+[13:08:28.232.828][2377193][DEBUG][XTP:0]register service function ok(3733).
+[13:08:28.232.830][2377193][DEBUG][XTP:0]register service function ok(3721).
+[13:08:28.232.832][2377193][DEBUG][XTP:0]register service function ok(3742).
+[13:08:28.232.834][2377193][DEBUG][XTP:0]register service function ok(3638).
+[13:08:28.232.836][2377193][DEBUG][XTP:0]register service function ok(10048).
+[13:08:28.232.838][2377193][DEBUG][XTP:0]register service function ok(10004).
+[13:08:28.232.840][2377193][DEBUG][XTP:0]register service function ok(10010).
+[13:08:28.232.841][2377193][DEBUG][XTP:0]register service function ok(10006).
+[13:08:28.232.843][2377193][DEBUG][XTP:0]register service function ok(10008).
+[13:08:28.232.845][2377193][DEBUG][XTP:0]register service function ok(10012).
+[13:08:28.232.847][2377193][DEBUG][XTP:0]register service function ok(10014).
+[13:08:28.232.849][2377193][DEBUG][XTP:0]register service function ok(10030).
+[13:08:28.232.851][2377193][DEBUG][XTP:0]register service function ok(10002).
+[13:08:28.232.853][2377193][DEBUG][XTP:0]register service function ok(10038).
+[13:08:28.232.855][2377193][DEBUG][XTP:0]register service function ok(10036).
+[13:08:28.232.856][2377193][DEBUG][XTP:0]register service function ok(10039).
+[13:08:28.232.858][2377193][DEBUG][XTP:0]register service function ok(10056).
+[13:08:28.232.860][2377193][DEBUG][XTP:0]register service function ok(10058).
+[13:08:28.232.862][2377193][DEBUG][XTP:0]register service function ok(10060).
+[13:08:28.232.864][2377193][DEBUG][XTP:0]register service function ok(10066).
+[13:08:28.232.866][2377193][DEBUG][XTP:0]register service function ok(10050).
+[13:08:28.232.867][2377193][DEBUG][XTP:0]register service function ok(10052).
+[13:08:28.232.869][2377193][INFO][XTP:0]End to register service function 1.
+[13:08:28.232.871][2377193][DEBUG][XTP:0]Begin to init terminal info.
+[13:08:28.233.022][2377193][DEBUG][XTP:0]End to init terminal info.
+[13:08:28.233.029][2377193][DEBUG][XTP:0]Init order manager.
+[13:08:28.233.151][2377193][DEBUG][XTP:0]order manager Initialize.
+[13:08:28.259.261][2377193][INFO][XTP:0]Init trader api success.
+[13:08:28.259.294][2377193][DEBUG][XTP:0]Begin to set software version : 1.1.0.
+[13:08:28.259.298][2377193][DEBUG][XTP:0]Begin to set software key : b8aa7173bba3470e390d787219b2112e.
+[13:08:28.259.496][2377193][INFO][XTP:0]353191001728 begin to login to oms server 122.112.139.0:6202.
+[13:08:28.425.906][2377193][DEBUG][XTP:0]Connect from oms server.
+[13:08:28.425.953][2377193][DEBUG][XTP:0]ip is 10.0.0.128.
+[13:08:28.426.249][2377193][DEBUG][XTP:0]Can't find account 353191001728 connect count.
+[13:08:28.476.870][2377193][DEBUG][XTP:0]Receive login info from oms server.
+[13:08:28.476.907][2377193][DEBUG][XTP:0]Begin to receive push sequence from oms.
+[13:08:28.476.914][2377193][DEBUG][XTP:0]End to receive push sequence 0 from oms.
+[13:08:28.476.919][2377193][INFO][XTP:0]The server version is r_2.1.26.1_2504, start time is 20250501084916029, type is 3
+[13:08:28.476.926][2377193][INFO][XTP:0]User reference is 1269
+[13:08:28.476.931][2377193][DEBUG][XTP:0]Can't find account 2836 connect count.
+[13:08:28.476.936][2377193][INFO][XTP:0]Begin to set trading day 20250501.
+[13:08:28.476.941][2377193][INFO][XTP:0]End set trading day 20250501
+[13:08:28.476.947][2377193][DEBUG][XTP:0]2836 's xtp id base reference is 0.
+[13:08:28.476.952][2377193][DEBUG][XTP:0]Update max push sequence 1.
+[13:08:28.477.136][2377193][DEBUG][XTP:0]api_login_server successful: 274726912.
+[13:08:28.477.144][2377193][INFO][XTP:0]Connect to oms server 122.112.139.0:6202 success.
+[13:08:28.477.150][2377193][INFO][XTP:0]Login to oms server 122.112.139.0:6202 success, user is 353191001728, session id is 274726912.
+[13:08:28.477.155][2377193][DEBUG][XTP:0]Insert account 353191001728:2836 to hash table, the session id is 274726912.
+[13:08:28.477.189][2377205][INFO][XTP:0]thread(api work) start...
+[13:08:28.477.307][2377193][INFO][XTP:0]Begin to insert order 0.
+[13:08:28.477.317][2377193][DEBUG][XTP:0]End to get xtp id is 39147016491631593.
+[13:08:28.477.357][2377193][INFO][XTP:0]Insert order 39147016491631593 success.
+[13:08:28.477.727][2377193][INFO][XTP:0]Begin to login to algo server 119.3.40.4:8602.
+[13:08:28.509.309][2377205][DEBUG][XTP:0]service(9) call time 1
+[13:08:28.509.392][2377205][DEBUG][XTP:0]Receive order event 17208944124934, svr_id:6, sub_id:36, client_id:1, account_id:2836, ps:1001.
+[13:08:28.509.498][2377205][INFO][XTP:0]Receive order event, xtp id is 39147016491631593, status is 6
+[13:08:28.509.621][2377205][DEBUG][XTP:0]close order 39147016491631593.
+[13:08:28.509.629][2377205][DEBUG][XTP:0]Receive order event success.
+[13:08:28.509.633][2377205][DEBUG][XTP:0]service(3102) call time 242
+[13:08:28.645.145][2377193][DEBUG][XTP:0]Connect from oms server.
+[13:08:28.645.185][2377193][DEBUG][XTP:0]ip is 10.0.0.128.
+[13:08:28.645.381][2377193][DEBUG][XTP:0]Find account 353191001728 connect count 1.
+[13:08:28.678.653][2377193][DEBUG][XTP:0]Receive login info from algo server.
+[13:08:28.678.851][2377193][DEBUG][XTP:0]api_login_server successful: 555745281.
+[13:08:28.678.860][2377193][INFO][XTP:0]Connect to algo server 119.3.40.4:8602 success.
+[13:08:28.678.870][2377193][INFO][XTP:0]Login to algo server 119.3.40.4:8602 success, user is 353191001728, session id is 555745281.
+[13:08:28.678.930][2377193][INFO][XTP:0]Begin to establish channel for xalgo.
+[13:08:28.678.953][2377206][INFO][XTP:0]thread(api work) start...
+[13:08:28.679.002][2377193][INFO][XTP:0]End to user establish channel for xalgo.
+[13:08:28.711.241][2377206][DEBUG][XTP:0]service(9) call time 0
+[13:08:28.832.885][2377206][DEBUG][XTP:0]Receive algo user verification.
+[13:08:28.833.041][2377206][INFO][XTP:0]Begin to create strategy.
+[13:08:28.833.089][2377206][INFO][XTP:0]End to create strategy.
+[13:08:28.833.136][2377206][INFO][XTP:0]Receive algo user verification success.
+[13:08:28.833.142][2377206][DEBUG][XTP:0]service(10002) call time 259
+[13:08:28.865.969][2377206][DEBUG][XTP:0]Receive algo create strategy.
+[13:08:28.866.029][2377206][INFO][XTP:0]Receive algo create strategy success, client strategy id is 1.
+[13:08:28.866.038][2377206][DEBUG][XTP:0]service(10004) call time 70
